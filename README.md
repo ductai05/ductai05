@@ -1,5 +1,5 @@
 # 💫About Me :
-- Name : Duc Tai Dinh (ciel)
+- :sunglasses: Name : Duc Tai Dinh (ciel)
 - :mortar_board: Education: 
   - BSc in Artificial Intelligence - K23 FIT.HCMUS ([**Faculty of Information Technology**](https://www.fit.hcmus.edu.vn/vn/Default.aspx?tabid=325), [**University of Science, VNU-HCM**](https://www.hcmus.edu.vn/))
   - Major in Mathematics - [**Bao Loc High School for Gifted**](https://www.facebook.com/ChuyenBaoLoc)
