@@ -12,7 +12,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ductai05&icon=0&color=0)](https://www.facebook.com/ductai.05/)
-[![ductai05's GitHub stats](https://github-readme-stats.vercel.app/api?username=ductai05)](https://github.com/ductai05)
+[![ductai05's github stats](https://github-readme-stats.vercel.app/api?username=ductai05&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/ductai05)
 
 Feel free to explore my GitHub repositories to see my projects and contributions!
 
