@@ -13,7 +13,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ductai05&icon=0&color=0)](https://www.facebook.com/ductai.05/)
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ductai05&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layou)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ductai05&layout=compact)
 ---
 Feel free to explore my GitHub repositories to see my projects and contributions!
 
