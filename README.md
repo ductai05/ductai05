@@ -12,10 +12,10 @@
 
 ---
 ### Top Repositories :
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ductai05/StudyGuide_APT2024">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ductai05&repo=StudyGuide_APT2024&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/ductai05/CodeLaTeX_S1Y1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ductai05&repo=CodeLaTeX_S1Y1&theme=dark" />
 </a>
 
