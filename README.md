@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ductai05&label=Profile%20views&color=0e75b6&style=flat" alt="ductai05" /> </p>
 
-- 🔭 I’m currently working on **Maze Game**
+- 🔭 I just finished [Maze Game](https://github.com/ductai05/S2Y1_MazeGame)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ductai05&show_icons=true&locale=en&layout=compact" alt="ductai05" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ductai05&show_icons=true&locale=en" alt="ductai05" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ductai05&show_icons=true&locale=en" alt="ductai05" /></p>
