@@ -8,7 +8,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-  <a href="https://github.com/ductai05">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" alt="python logo" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="40" alt="cplusplus logo" /></a>
   <img src="https://cdn.simpleicons.org/pandas/150458" height="30" width="40" alt="pandas logo" />
