@@ -9,9 +9,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/8sv70h.gif"  />
+<img align="right" height="180" src="https://i.imgflip.com/8sv70h.gif"  />
 
 ###
+
+<h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -31,22 +33,12 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ductai05/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="ductai.dt05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/ductai.05" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ductai05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ductai05" height="30" width="40" /></a>
+<a href="https://kaggle.com/cieldt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cieldt" height="30" width="40" /></a>
+<a href="https://fb.com/ductai05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ductai05" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/cieldt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cieldt" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/cieldt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cieldt" height="30" width="40" /></a>
+</p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ductai05/ductai05/output/snake.svg" alt="Snake animation" />
-
-###
