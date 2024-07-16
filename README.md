@@ -1,4 +1,4 @@
-<h2 align="left">Hello fen! 👋</h2>
+<h2 align="left">Hello world! 👋</h2>
 
 I'm [Duc Tai](fb.com/ductai05), a student in AI at [FIT](https://www.fit.hcmus.edu.vn/en/)@[HCMUS](https://en.hcmus.edu.vn/)-[VNUHCM](https://vnuhcm.edu.vn/).
 You can also check out my blog at [ductai05.github.io](ductai05.github.io).
