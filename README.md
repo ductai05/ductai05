@@ -26,7 +26,7 @@ You can also check out my blog at [ductai05.github.io](https://ductai05.github.i
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/in/ductai05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/github.svg" alt="ductai05" height="30" width="40" /></a>
+<a href="https://github.com/ductai05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/github.svg" alt="ductai05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ductai05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ductai05" height="30" width="40" /></a>
 <a href="https://kaggle.com/cieldt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cieldt" height="30" width="40" /></a>
 <a href="https://fb.com/ductai05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ductai05" height="30" width="40" /></a>
