@@ -30,7 +30,7 @@ You can also check out my blog at [ductai05.github.io](https://ductai05.github.i
 <a href="https://linkedin.com/in/ductai05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ductai05" height="30" width="40" /></a>
 <a href="https://kaggle.com/cieldt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cieldt" height="30" width="40" /></a>
 <a href="https://fb.com/ductai05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ductai05" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/cieldt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cieldt" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ciel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cieldt" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/cieldt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cieldt" height="30" width="40" /></a>
 </p>
 
