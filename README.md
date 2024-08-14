@@ -45,7 +45,7 @@ You can also check out my blog at [ductai05.github.io](https://ductai05.github.i
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ductai05&theme=2077" height="150em" />
 </a>
 
-<br><br>
+
 
 <img src="https://raw.githubusercontent.com/ductai05/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/ductai05/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
