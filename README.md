@@ -12,7 +12,6 @@ You can also check out my blog at [ductai05.github.io](https://ductai05.github.i
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="40" alt="python logo" /></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="40" alt="cplusplus logo" /></a>
   <img src="https://cdn.simpleicons.org/pandas/150458" height="30" width="40" alt="pandas logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30" width="40" alt="numpy logo" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" width="40" alt="pytorch logo" /></a>
@@ -21,6 +20,8 @@ You can also check out my blog at [ductai05.github.io](https://ductai05.github.i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="40" alt="vscode logo" /></a>
   </a>
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,latex,matlab,sklearn,vscode,git,github,anaconda&perline=5)](https://skillicons.dev)
 
 ###
 
