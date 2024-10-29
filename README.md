@@ -5,7 +5,7 @@ You can also check out my blog at [ductai05.github.io](https://ductai05.github.i
 
 ###
 
-<img align="right" height="180" src="https://i.imgflip.com/96pbun.gif"  />  <!-- 8sv70h.gif ;  8xhz62.gif; 8xkuwj.gif-->
+<img align="right" height="180" src="https://i.imgflip.com/98aoc7.gif"  />    <!-- 96pbun dandadan--> <!-- 8sv70h.gif ;  8xhz62.gif; 8xkuwj.gif-->
 
 ###
 
