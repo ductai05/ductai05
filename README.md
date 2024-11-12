@@ -20,17 +20,14 @@ You can also check out my blog at [ductai05.github.io](https://ductai05.github.i
 [![LinkedIn](https://img.shields.io/badge/ductai05-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ductai05/)
 [![LeetCode](https://img.shields.io/badge/ductai05-black?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/cieldt/)
 [![Facebook](https://img.shields.io/badge/ductai05-black?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/ductai05/)
+
 ## Tech Stack & Tools
+<img align="right" height="180" src="https://i.imgflip.com/98apb7.gif"  />    <!-- 96pbun dandadan--> <!-- 8sv70h.gif ;  8xhz62.gif; 8xkuwj.gif-->
 
 | ![Algorithms](https://img.shields.io/badge/-ALGORITHMS-000?style=flat-square&logoColor=white)       | ![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white)                                                                                                                   |                         
 | :-------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![RD & FE](https://img.shields.io/badge/-RD%20&%20FE-000?style=flat-square&logoColor=white)         | ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-000?style=flat-square&logo=electron&logoColor=white)           |
 | ![Learning](https://img.shields.io/badge/-LEARNING-000?style=flat-square&logoColor=white)           | ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-000?style=flat-square&logo=huggingface&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-000?style=flat-square&logo=openai&logoColor=white)                                                                                                           |
-
-
-###
-
-<img align="right" height="180" src="https://i.imgflip.com/98apb7.gif"  />    <!-- 96pbun dandadan--> <!-- 8sv70h.gif ;  8xhz62.gif; 8xkuwj.gif-->
 
 ###
 
