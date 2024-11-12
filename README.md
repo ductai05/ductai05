@@ -1,7 +1,32 @@
-<h2 align="left">Hello world! 👋</h2>
+# Hello world! 👋
 
-I'm [Duc Tai](https://fb.com/ductai05), a student in AI at [FIT](https://www.fit.hcmus.edu.vn/en/)@[HCMUS](https://en.hcmus.edu.vn/)-[VNUHCM](https://vnuhcm.edu.vn/).
-You can also check out my blog at [ductai05.github.io](https://ductai05.github.io).
+## About Me
+
+I'm [Duc Tai](https://fb.com/ductai05) (aka cieldt), a 19yo student from LamDong, Vietnam. 
+
+Currently, I'm studying in Artificial Intelligence (K23) at [FIT](https://www.fit.hcmus.edu.vn/en/)@[HCMUS](https://en.hcmus.edu.vn/)-[VNUHCM](https://vnuhcm.edu.vn/).
+
+You can also check out my blog at [ductai05.github.io](https://ductai05.github.io),
+
+🐧🐧🐧
+
+## Find Me At
+
+[![Github](https://img.shields.io/github/followers/ductai05?style=flat-square&logo=github&labelColor=black&color=ffc0cb)](https://github.com/ductai05)
+[![Personal Site](https://img.shields.io/badge/ductai05.github.io-black?labelColor=black&logo=github&logoColor=white&style=flat-square)](https://ductai05.github.io/)
+[![Email](https://img.shields.io/badge/-ductai.dt05@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:ductai.dt05@gmail.com)
+[![Kaggle](https://img.shields.io/badge/cieldt-black?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/cieldt/)
+[![Codeforces](https://img.shields.io/badge/ciel-black?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ciel_)
+[![LinkedIn](https://img.shields.io/badge/ductai05-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ductai05/)
+[![LeetCode](https://img.shields.io/badge/ductai05-black?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/cieldt/)
+[![Facebook](https://img.shields.io/badge/ductai05-black?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/ductai05/)
+## Tech Stack & Tools
+
+| ![Algorithms](https://img.shields.io/badge/-ALGORITHMS-000?style=flat-square&logoColor=white)       | ![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white)                                                                                                                   |                         
+| :-------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![RD & FE](https://img.shields.io/badge/-RD%20&%20FE-000?style=flat-square&logoColor=white)         | ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-000?style=flat-square&logo=electron&logoColor=white)           |
+| ![Learning](https://img.shields.io/badge/-LEARNING-000?style=flat-square&logoColor=white)           | ![AI & ML](https://img.shields.io/badge/-AI%20&%20ML-000?style=flat-square&logo=huggingface&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-000?style=flat-square&logo=openai&logoColor=white)                                                                                                           |
+
 
 ###
 
@@ -31,20 +56,6 @@ You can also check out my blog at [ductai05.github.io](https://ductai05.github.i
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="30" width="40" />
 </div>
-
-
-###
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/ductai05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/github.svg" alt="ductai05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ductai05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ductai05" height="30" width="40" /></a>
-<a href="https://kaggle.com/cieldt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cieldt" height="30" width="40" /></a>
-<a href="https://fb.com/ductai05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ductai05" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ciel_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="cieldt" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cieldt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cieldt" height="30" width="40" /></a>
-</p>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
