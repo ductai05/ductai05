@@ -18,7 +18,7 @@ You can also check out my blog at [ductai05.github.io](https://ductai05.github.i
 [![Facebook](https://img.shields.io/badge/ductai05-black?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/ductai05/)
 
 ## Tech Stack & Tools
-<img align="right" height="180" src="https://i.imgflip.com/98apb7.gif"  />    <!-- 96pbun dandadan--> <!-- 8sv70h.gif ;  8xhz62.gif; 8xkuwj.gif-->
+<img align="right" height="150" src="https://i.imgflip.com/98apb7.gif"  />    <!-- 96pbun dandadan--> <!-- 8sv70h.gif ;  8xhz62.gif; 8xkuwj.gif-->
 
 | ![Algorithms](https://img.shields.io/badge/-ALGORITHMS-000?style=flat-square&logoColor=white)       | ![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-000?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-000?style=flat-square&logo=r&logoColor=white)                                                   |                         
 | :-------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
