@@ -43,8 +43,9 @@ You can also check out my blog at [ductai05.github.io](https://ductai05.github.i
 <div style="text-align: center;">
 
 <a href="https://github.com/ductai05">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ductai05&theme=2077" height="150em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ductai05&theme=2077" height="150em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ductai05&theme=github_dark" height="150em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ductai05&theme=github_dark" height="150em" />
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ductai05&theme=github_dark" height="150em" /> -->
 </a>
 
 
