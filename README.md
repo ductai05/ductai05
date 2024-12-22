@@ -2,7 +2,7 @@
 
 ## About Me
 I'm [Duc Tai](https://fb.com/ductai05) (aka cieldt), a 19yo student from LamDong, Vietnam.\
-Currently, I'm studying for a BSc in Artificial Intelligence (K23) at [FIT](https://www.fit.hcmus.edu.vn/en/)@[HCMUS](https://en.hcmus.edu.vn/)-[VNUHCM](https://vnuhcm.edu.vn/).
+Currently, I'm studying for a BSc in Artificial Intelligence (AI23) at [FIT](https://www.fit.hcmus.edu.vn/en/)@[HCMUS](https://en.hcmus.edu.vn/)-[VNUHCM](https://vnuhcm.edu.vn/).
 
 You can also check out my blog at [ductai05.github.io](https://ductai05.github.io)  🐧🐧🐧
 
