@@ -44,6 +44,8 @@ You can also check out my blog at [ductai05.github.io](https://ductai05.github.i
 
 <a href="https://github.com/ductai05">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ductai05&theme=github_dark" height="160em" />
+</a>
+<a href="https://leetcode.com/u/cieldt">
 <img src="https://leetcard.jacoblin.cool/cieldt?theme=chartreuse&font=ABeeZee&ext=heatmap" height="160em" />
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ductai05&theme=github_dark" height="150em" /> -->
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ductai05&theme=github_dark" height="150em" /> -->
