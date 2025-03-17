@@ -1,4 +1,4 @@
-# Hello world! 👋
+# Duc Tai @ AI23-HCMUS // TK9-BLHSfG 👋
 
 ## About Me
 I'm [Duc Tai](https://fb.com/ductai05) (aka cieldt), a 19yo student from LamDong, Vietnam.\
