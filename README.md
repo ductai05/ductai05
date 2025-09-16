@@ -1,7 +1,7 @@
 # Duc Tai @ AI23-HCMUS // TK9-BLHSfG 👋
 
 ## About Me
-I'm [Duc Tai](https://fb.com/ductai05) (aka cieldt), a 19yo student from LamDong, Vietnam.\
+I'm [Duc Tai](https://fb.com/ductai05) (aka cieldt), a 20yo student from LamDong, Vietnam.\
 Currently, I'm studying for a BSc in Artificial Intelligence (AI23) @ [FIT](https://www.fit.hcmus.edu.vn/en/)-[HCMUS](https://en.hcmus.edu.vn/), [VNUHCM](https://vnuhcm.edu.vn/).
 
 You can also check out my blog at [cieldt.is-a.dev](https://cieldt.is-a.dev) or [ductai05.github.io](https://ductai05.github.io)  🐧🐧🐧
