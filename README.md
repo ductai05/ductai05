@@ -1,15 +1,15 @@
 # Duc Tai @ AI23-HCMUS // TK9-BLHSfG 👋
 
 ## About Me
-I'm [Duc Tai](https://fb.com/ductai05) (aka cieldt), a 20yo student from LamDong, Vietnam.\
+I'm [Duc Tai](https://fb.com/ductai05) (aka cieldt), a 21yo student from LamDong, Vietnam.\
 Currently, I'm studying for a BSc in Artificial Intelligence (AI23) @ [FIT](https://www.fit.hcmus.edu.vn/en/)-[HCMUS](https://en.hcmus.edu.vn/), [VNUHCM](https://vnuhcm.edu.vn/).
 
-You can also check out my blog at [ductai05.is-a.dev](https://ductai05.is-a.dev) or [cieldt.is-a.dev](https://cieldt.is-a.dev) 🐧🐧🐧
+You can also check out my blog at [cieldt.is-a.dev](https://cieldt.is-a.dev) 🐧🐧🐧
 
 ## Find Me At
 
 [![Github](https://img.shields.io/github/followers/ductai05?style=flat-square&logo=github&labelColor=black&color=ffc0cb)](https://github.com/ductai05)
-[![Personal Site](https://img.shields.io/badge/cieldt.is--a.dev-black?labelColor=black&logo=vercel&logoColor=white&style=flat-square)](https://cieldt.is-a.dev/)
+[![Personal Site](https://img.shields.io/badge/ciel.is--a.dev-black?labelColor=black&logo=vercel&logoColor=white&style=flat-square)](https://ciel.is-a.dev/)
 [![Email](https://img.shields.io/badge/-ductai.dt05@gmail.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:ductai.dt05@gmail.com)
 [![Kaggle](https://img.shields.io/badge/cieldt-black?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/cieldt/)
 [![Codeforces](https://img.shields.io/badge/ciel-black?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ciel_)
